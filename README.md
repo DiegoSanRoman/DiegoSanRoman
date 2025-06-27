@@ -21,6 +21,32 @@
 📍 Based in Cantabria and Madrid  
 📬 Reach me at: diegosanroman4@gmail.com
 
+<details>
+<summary>🇪🇸 Ver versión en español</summary>
+
+🎓 Soy Diego, estudiante de Ingeniería Informática en la Universidad Carlos III de Madrid. Me apasiona resolver problemas reales a través del código y aprender constantemente nuevas tecnologías.
+
+🚀 Mis intereses abarcan:
+- Ciberseguridad 🛡️ (firmas digitales, certificados, hacking ético)
+- Machine Learning & IA 🤖 (PyTorch, TensorFlow, Scikit-learn)
+- Desarrollo Web 🌐 (Flask, HTML/CSS/JS, MySQL)
+- Programación de sistemas y bajo nivel ⚙️ (C, C++, Ensamblador, Bash)
+
+📚 He trabajado en proyectos como:
+- Un videojuego 2D de aviones con Pyxel
+- Un sistema de firma digital de documentos con Flask y OpenSSL
+- Un sistema de archivos distribuido usando FUSE y RPC
+- Modelos de redes neuronales para clasificación de imágenes
+
+🌱 Actualmente:
+- Profundizando en cloud computing y ciberseguridad
+- Buscando prácticas donde aplicar lo aprendido y crecer profesionalmente
+
+📍 Vivo entre Cantabria y Madrid  
+📬 Puedes contactarme en: diegosanroman4@gmail.com
+
+</details>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegosanroman4@gmail.com) 
 
@@ -43,4 +69,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Diego100495878&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
