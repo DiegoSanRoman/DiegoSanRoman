@@ -3,7 +3,7 @@
 🎓 I'm Diego, a Computer Engineering student at Universidad Carlos III de Madrid. I'm passionate about solving real-world problems through code and continuously learning new technologies.
 
 🚀 My interests span across:
-- Cybersecurity 🛡️ (digital signatures, certificates, ethical hacking)
+- Cybersecurity 🛡️ (digital signatures, certificates)
 - Machine Learning & AI 🤖 (PyTorch, TensorFlow, Scikit-learn)
 - Web Development 🌐 (Flask, HTML/CSS/JS, MySQL)
 - Systems & Low-Level Programming ⚙️ (C, C++, Assembly, Bash)
